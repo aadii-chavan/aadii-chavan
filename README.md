@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="nayome.gif" width="100%" />
+
 
   <br/>
   <br/>
